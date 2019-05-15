@@ -1,0 +1,7 @@
+G:\School\Sam Houston\Spring 2018\Comp Architecture\Homework\Homework Code\CompArch Project\CompArch Project\bin\Release\CompArch Project.exe.config
+G:\School\Sam Houston\Spring 2018\Comp Architecture\Homework\Homework Code\CompArch Project\CompArch Project\bin\Release\CompArch Project.exe
+G:\School\Sam Houston\Spring 2018\Comp Architecture\Homework\Homework Code\CompArch Project\CompArch Project\bin\Release\CompArch Project.pdb
+G:\School\Sam Houston\Spring 2018\Comp Architecture\Homework\Homework Code\CompArch Project\CompArch Project\obj\Release\CompArch Project.csprojResolveAssemblyReference.cache
+G:\School\Sam Houston\Spring 2018\Comp Architecture\Homework\Homework Code\CompArch Project\CompArch Project\obj\Release\CompArch Project.csproj.CoreCompileInputs.cache
+G:\School\Sam Houston\Spring 2018\Comp Architecture\Homework\Homework Code\CompArch Project\CompArch Project\obj\Release\CompArch Project.exe
+G:\School\Sam Houston\Spring 2018\Comp Architecture\Homework\Homework Code\CompArch Project\CompArch Project\obj\Release\CompArch Project.pdb

@@ -1,0 +1,6 @@
+G:\School\Sam Houston\Spring 2018\Comp Architecture\Homework\Homework Code\CompArch Project\CompArch Project\bin\Debug with commands\CompArch Project.exe.config
+G:\School\Sam Houston\Spring 2018\Comp Architecture\Homework\Homework Code\CompArch Project\CompArch Project\bin\Debug with commands\CompArch Project.exe
+G:\School\Sam Houston\Spring 2018\Comp Architecture\Homework\Homework Code\CompArch Project\CompArch Project\bin\Debug with commands\CompArch Project.pdb
+G:\School\Sam Houston\Spring 2018\Comp Architecture\Homework\Homework Code\CompArch Project\CompArch Project\obj\Debug with commands\CompArch Project.csproj.CoreCompileInputs.cache
+G:\School\Sam Houston\Spring 2018\Comp Architecture\Homework\Homework Code\CompArch Project\CompArch Project\obj\Debug with commands\CompArch Project.exe
+G:\School\Sam Houston\Spring 2018\Comp Architecture\Homework\Homework Code\CompArch Project\CompArch Project\obj\Debug with commands\CompArch Project.pdb
